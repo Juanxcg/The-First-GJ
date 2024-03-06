@@ -1,0 +1,3 @@
+rep "workProject@gamejam_test@cloud.cn"
+  path "/"
+    smartbranch "/main/ui/test/Finaldebug"          
